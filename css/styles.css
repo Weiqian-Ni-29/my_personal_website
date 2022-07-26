@@ -9,7 +9,7 @@ h1{
     background-color: #E4F9F5;
     position: relative;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 150px;
 }
 h1{
     margin-top: 50px;
@@ -49,15 +49,15 @@ a:hover{
     position: absolute;
     top: 70px;
     right: 550px;
-    width: 7%;
+    width: 10%;
 }
 .bottom-cloud{
     position: absolute;
     left: 600px;
-    width: 7%;
+    width: 10%;
 }
 .mountain{
-    width: 35%;
+    width: 50%;
 }
 .myphoto{
     width: 200px;
